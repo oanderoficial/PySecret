@@ -13,7 +13,7 @@ SALT = b'segredo-sal-fixo'
 class GerenciadorSenhas(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Gerenciador de Senhas Seguro")
+        self.setWindowTitle("PySecret - Gerenciador de Senhas")
         self.setMinimumSize(600, 450)
 
         self.lista_senhas = QListWidget()
@@ -139,7 +139,7 @@ def aplicar_estilo_completo(app):
     paleta.setColor(QPalette.ColorRole.HighlightedText, Qt.GlobalColor.white)
     app.setPalette(paleta)
 
-    # QSS extra para detalhes
+    # CSS extra para detalhes
     estilo = """
     QPushButton {
         border-radius: 5px;
