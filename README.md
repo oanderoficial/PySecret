@@ -19,6 +19,8 @@
 
 ## Referências 
 
+<strong> criptografia simétrica: </strong> https://academy.binance.com/pt/articles/what-is-symmetric-key-cryptography
+<br>
 <strong> cryptography: </strong> https://cryptography.io/en/latest
 <br>
 <strong> Fernet: </strong> https://cryptography.io/en/latest/fernet
