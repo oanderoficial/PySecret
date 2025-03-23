@@ -1,4 +1,4 @@
-# PySecret
+# PySecret - Gerenciador de Senhas 
 
 ## Criptografia utilizada 
 
