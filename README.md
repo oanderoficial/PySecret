@@ -20,4 +20,5 @@
 ## Referências 
 
 <strong> cryptography: </strong> https://cryptography.io/en/latest
+<br>
 <strong> Fernet: </strong> https://cryptography.io/en/latest/fernet/
