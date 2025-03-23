@@ -16,3 +16,9 @@
 
 * <strong> Derivação de chave:</strong> PBKDF2HMAC com SHA256, sal fixo definido (SALT), e 100000 iterações.
 
+
+## Referências 
+
+<strong> cryptography: </strong> https://cryptography.io/en/latest
+<br>
+<strong> Fernet: </strong> https://cryptography.io/en/latest/fernet/
