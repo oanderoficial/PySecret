@@ -21,4 +21,6 @@
 
 <strong> cryptography: </strong> https://cryptography.io/en/latest
 <br>
-<strong> Fernet: </strong> https://cryptography.io/en/latest/fernet/
+<strong> Fernet: </strong> https://cryptography.io/en/latest/fernet
+<br>
+<strong> Derivação de chave criptográfica: </strong> https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/
