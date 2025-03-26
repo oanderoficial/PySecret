@@ -26,3 +26,5 @@
 <strong> Fernet: </strong> https://cryptography.io/en/latest/fernet
 <br>
 <strong> Derivação de chave criptográfica: </strong> https://cryptography.io/en/latest/hazmat/primitives/key-derivation-functions/
+<br> 
+<strong> Modo CBC </strong>https://xilinx.github.io/Vitis_Libraries/security/2019.2/guide_L1/internals/cbc.html
